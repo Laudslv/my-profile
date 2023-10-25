@@ -1,0 +1,132 @@
+body{
+ color: black;
+font-family:Times New Roman, monospace;
+font-size: 12px;
+line-height: 0.8;
+letter-spacing: 0.5;
+font-weight: 50;
+font-weight: bold;
+text-align: center;
+margin: 0px;
+padding: 0px;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 100px auto;
+    overflow: hidden;
+}
+
+.profile-picture img {
+    width: 80%;
+    height: auto;
+    display: block;
+    img-align: center;
+}
+.background-container {
+    background-color:grey;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.background-container1 {
+    background-color: pink;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1800px;
+    overflow: hidden;
+}
+
+
+h1{
+  font-family:Times New Roman, monospace;
+    font-size: 28px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+
+h2{
+  font-family:Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+h3{
+  font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+
+}
+h4{
+  font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+
+
+h5{
+  font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+
+h6{
+  font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+
+p{
+   font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+    margin:20px auto;
+}
+
+p1{
+   font-family: Times New Roman, monospace;
+    font-size: 18px;
+    line-height: 1,2;
+    letter-spacing: 0,5
+}
+
+.container{
+    width: 700px;
+    margin: 30px auto;
+}
+
+.card-white {
+  background: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+
+.social-button img {
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 13%;
+    height: 13%;
+    margin: 10px;
+    padding: 10px
+}
